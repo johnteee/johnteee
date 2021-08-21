@@ -5,14 +5,12 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnteee&layout=compact&langs_count=99&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="johnteee-top-langs" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=johnteee&show_icons=true&count_private=true&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="johnteee-stats" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnteee&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="johnteee-streak-stats" /></p>
 
-<p align="center">
 [![fpGo](https://github-readme-stats.vercel.app/api/pin/?username=TeaEntityLab&repo=fpGo&theme=dark)](https://github.com/TeaEntityLab/fpGo)
 [![fpRust](https://github-readme-stats.vercel.app/api/pin/?username=TeaEntityLab&repo=fpRust&theme=dark)](https://github.com/TeaEntityLab/fpRust)
 [![fpEs](https://github-readme-stats.vercel.app/api/pin/?username=TeaEntityLab&repo=fpEs&theme=dark)](https://github.com/TeaEntityLab/Es)
 [![go-web-app](https://github-readme-stats.vercel.app/api/pin/?username=TeaEntityLab&repo=go-web-app&theme=dark)](https://github.com/TeaEntityLab/go-web-app)
 [![httpAPIService](https://github-readme-stats.vercel.app/api/pin/?username=TeaEntityLab&repo=httpAPIService&theme=dark)](https://github.com/TeaEntityLab/httpAPIService)
 [![wsgiLite.js](https://github-readme-stats.vercel.app/api/pin/?username=TeaEntityLab&repo=wsgiLite.js&theme=dark)](https://github.com/TeaEntityLab/wsgiLite.js)
-</p>
 
 <h3 align="center">GitHub Trophies</h3>
 
