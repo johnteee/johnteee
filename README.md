@@ -1,4 +1,4 @@
-### Hi 👋, I'm John Lee
+<h1 align="center">Hi 👋, I'm John Lee</h1>
 
 <h3 align="center">GitHub Stats</h3>
 
