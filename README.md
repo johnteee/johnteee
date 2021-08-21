@@ -1,5 +1,16 @@
 <h1 align="center">Hi 👋, I'm John Lee</h1>
 
+<h3 align="left">Senior FullStack & App Developer</h3>
+
+- Language: Java/ES6/Golang/Kotlin/Swift/Rust
+- Platform: FrontEnd/BackEnd/Android/iOS
+- Framework: Laravel/AdonisJs, Gin/FastHttp/Express/Koa, VueJS/ReactJS
+- Cloud: Docker/K8S/GKE/S3/GCS
+- Knowledge: Functional Programming/Async, SoftwareEngineering/CI/CD/DevOps, Agile Methodology/Scrum/Kanban/XP, 
+
+
+
+
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
