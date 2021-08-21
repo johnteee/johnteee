@@ -3,9 +3,9 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnteee&layout=compact&langs_count=99&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="johnteee-top-langs" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnteee&show_icons=true&count_private=true&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="johnteee-stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnteee&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="johnteee-streak-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnteee&layout=compact&langs_count=99&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="johnteee-top-langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnteee&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="johnteee-stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnteee&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="johnteee-streak-stats" />
 </p>
 
 [![fpGo](https://github-readme-stats.vercel.app/api/pin/?username=TeaEntityLab&repo=fpGo&theme=dark)](https://github.com/TeaEntityLab/fpGo)
