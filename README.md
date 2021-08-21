@@ -21,13 +21,14 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnteee&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="johnteee-streak-stats" />
 </p>
 
-[![fpGo](https://github-readme-stats.vercel.app/api/pin/?username=TeaEntityLab&repo=fpGo&theme=dark)](https://github.com/TeaEntityLab/fpGo)
-[![fpRust](https://github-readme-stats.vercel.app/api/pin/?username=TeaEntityLab&repo=fpRust&theme=dark)](https://github.com/TeaEntityLab/fpRust)
-[![fpEs](https://github-readme-stats.vercel.app/api/pin/?username=TeaEntityLab&repo=fpEs&theme=dark)](https://github.com/TeaEntityLab/Es)
-[![go-web-app](https://github-readme-stats.vercel.app/api/pin/?username=TeaEntityLab&repo=go-web-app&theme=dark)](https://github.com/TeaEntityLab/go-web-app)
-[![httpAPIService](https://github-readme-stats.vercel.app/api/pin/?username=TeaEntityLab&repo=httpAPIService&theme=dark)](https://github.com/TeaEntityLab/httpAPIService)
-[![wsgiLite.js](https://github-readme-stats.vercel.app/api/pin/?username=TeaEntityLab&repo=wsgiLite.js&theme=dark)](https://github.com/TeaEntityLab/wsgiLite.js)
-
+<p align="center>
+  <a href="https://github.com/TeaEntityLab/fpGo"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaEntityLab&repo=fpGo&theme=dark" alt="fpGo"> </a>
+  <a href="https://github.com/TeaEntityLab/fpRust"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaEntityLab&repo=fpRust&theme=dark" alt="fpRust"> </a>
+  <a href="https://github.com/TeaEntityLab/fpEs"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaEntityLab&repo=fpEs&theme=dark" alt="fpEs"> </a>
+  <a href="https://github.com/TeaEntityLab/go-web-app"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaEntityLab&repo=go-web-app&theme=dark" alt="go-web-app"> </a>
+  <a href="https://github.com/TeaEntityLab/httpAPIService"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaEntityLab&repo=httpAPIService&theme=dark" alt="httpAPIService"> </a>
+  <a href="https://github.com/TeaEntityLab/wsgiLite.js"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaEntityLab&repo=wsgiLite.js&theme=dark" alt="wsgiLite.js"> </a>
+</p>
 
 <h3 align="center">GitHub Trophies</h3>
 
