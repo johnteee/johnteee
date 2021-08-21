@@ -2,13 +2,13 @@
 
 <h3 align="left">Senior FullStack & App Developer</h3>
 
-- Language: Java/JS(ES6+)/Golang/Kotlin/Swift/Rust/Shell
+- Language: Java/JS(ES6+)/Golang/Kotlin/Swift/Rust/Shell/C99&CPP11+/Lua
 - DB/Cache: MySQL/PostgreSQL/MongoDB, Redis/Memcached
 - Automation/Testing: Jenkins/GitlabCI, RobotFramework/JMeter/Selenium/JUnit/MochaJs
 - Platform: FrontEnd/BackEnd/Android/iOS
-- Framework: Laravel/AdonisJs, Gin/FastHttp/Express/Koa, VueJS/ReactJS
+- Framework: Laravel/AdonisJs, Gin/FastHttp/Express/Koa, VueJS/ReactJS/VanillaJS/SASS(SCSS)/LESS
 - Cloud: Docker/K8S/GKE/S3/GCS
-- Knowledge: FunctionalProgramming/Async, RDB/NoSQL, SoftwareEngineering/CI/CD/DevOps, AgileMethodology/Scrum/Kanban/XP, 
+- Knowledge: FunctionalProgramming/Async, RDB/NoSQL, SoftwareEngineering/TDD/Refactoring/CI/CD/DevOps, AgileMethodology/Scrum/Kanban/XP, AOSP
 
 
 
