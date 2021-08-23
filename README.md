@@ -16,8 +16,10 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
+  <!--
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnteee&layout=compact&langs_count=99&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="johnteee-top-langs" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=johnteee&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=slateorange&title_color=e3bb18&icon_color=e3bb18&bg_color=151515&border_color=323232" alt="johnteee-stats" />
+  -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnteee&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark&ring=e3bb18&fire=e3bb18&currStreakLabel=e3bb18&border=323232" alt="johnteee-streak-stats" />
 </p>
 
@@ -30,9 +32,11 @@
   <a href="https://github.com/TeaEntityLab/wsgiLite.js"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeaEntityLab&repo=wsgiLite.js&theme=dark" alt="wsgiLite.js"> </a>
 </p>
 
+<!--
 <h3 align="center">GitHub Trophies</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=johnteee&theme=onedark&column=8&margin-w=2&margin-h=2&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 <!--
 **johnteee/johnteee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
